@@ -1,4 +1,4 @@
-const axios = require('axios');
+const axios = require('axios'); // o Axios serve para fazer chamadas a outras apis nesse caso GitHub
 const Dev = require('../models/Dev');
 const parseStringAsArray = require('../utils/parseStringAsArray');
 //Geralmente o controlloer tem 5 funções:
